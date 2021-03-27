@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #e03a3c;
+  color: #00629B;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #e03a3c;
+  background: #00629B;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 #header .logo img {
