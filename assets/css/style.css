@@ -174,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 .navbar .dropdown ul {
@@ -385,8 +385,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #e03a3c;
-  border: 2px solid #e03a3c;
+  background: #00629B;
+  border: 2px solid #00629B;
 }
 
 #hero .btn-get-started:hover {
@@ -444,7 +444,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #e03a3c;
+  background: #00629B;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -510,7 +510,7 @@ section {
 .breadcrumbs ol li + li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #e03a3c;
+  color: #00629B;
   content: "/";
 }
 
@@ -527,11 +527,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e03a3c;
+  border: 1px solid #00629B;
 }
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e03a3c;
+  background-color: #00629B;
 }
 
 .clients .swiper-slide img {
@@ -587,7 +587,7 @@ section {
 
 .about .content .about-btn:hover {
   background: #e35052;
-  background: #e03a3c;
+  background: #00629B;
 }
 
 .about .icon-boxes .icon-box {
