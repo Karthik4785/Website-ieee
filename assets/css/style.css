@@ -436,6 +436,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
+  color: #00629B;G
 }
 
 .section-title h2::after {
@@ -596,7 +597,7 @@ section {
 
 .about .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #e03a3c;
+  color: #00B5E2;
   margin-bottom: 10px;
 }
 
