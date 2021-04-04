@@ -1173,7 +1173,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: #e03a3c;
+  font-family:#00629B ;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
@@ -1202,7 +1202,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 .faq .faq-list a.collapsed .icon-show {
