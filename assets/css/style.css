@@ -1307,7 +1307,7 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #e03a3c;
+  color: #00629B;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #f8d4d5;
@@ -1336,7 +1336,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #00629B;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1398,7 +1398,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #e03a3c;
+  background: #00629B;
   border: 0;
   padding: 10px 32px;
   color: #fff;
@@ -1407,7 +1407,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #e35052;
+  background: #00629B;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1858,7 +1858,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 .blog .sidebar .categories ul a span {
@@ -1924,8 +1924,8 @@ section {
 
 .blog .sidebar .tags ul a:hover {
   color: #fff;
-  border: 1px solid #e03a3c;
-  background: #e03a3c;
+  border: 1px solid #00629B;
+  background: #00629B;
 }
 
 .blog .sidebar .tags ul a span {
@@ -1959,7 +1959,7 @@ section {
 }
 
 #footer .footer-top .footer-contact h3 span {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1982,7 +1982,7 @@ section {
   display: block;
   width: 20px;
   height: 2px;
-  background: #e03a3c;
+  background: #00629B;
   bottom: 0;
   left: 0;
 }
@@ -2069,7 +2069,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #e35052;
+  background: #00629B;
 }
 
 #footer .credits {
@@ -2093,7 +2093,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #e03a3c;
+  background: #00629B;
   color: #fff;
   text-decoration: none;
 }
