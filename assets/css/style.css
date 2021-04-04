@@ -552,6 +552,7 @@ section {
 .about .container {
   position: relative;
   z-index: 10;
+  
 }
 
 .about .content {
@@ -1060,11 +1061,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e03a3c;
+  border: 1px solid #00629B;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e03a3c;
+  background-color: #00629B;
 }
 
 /*--------------------------------------------------------------
