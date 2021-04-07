@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #e76668;
+  color: #00629B;
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #e65d5f;
+  background: #00629B;
   color: #fff;
 }
 
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 .get-started-btn {
   margin-left: 30px;
-  background: #e03a3c;
+  background: #00629B;
   color: #fff;
   border-radius: 4px;
   padding: 8px 25px;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 .navbar .dropdown:hover > ul {
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 .navbar-mobile .getstarted {
@@ -332,7 +332,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #e03a3c;
+  color: #00629B;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
