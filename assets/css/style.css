@@ -580,7 +580,7 @@ section {
   font-size: 13px;
   display: inline-flex;
   align-items: center;
-  border: 2px solid #e03a3c;
+  border: 2px solid #00629B;
 }
 
 .about .content .about-btn i {
@@ -776,7 +776,7 @@ section {
 
 .services .icon-box i {
   float: left;
-  color: #e03a3c;
+  color: #00629B;
   font-size: 40px;
   line-height: 0;
 }
@@ -837,7 +837,7 @@ section {
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #e03a3c;
+  background: #00629B;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -954,7 +954,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e03a3c;
+  background-color: #00629B;
 }
 
 .portfolio-details .portfolio-info {
